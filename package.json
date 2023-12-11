@@ -1,0 +1,42 @@
+{
+  "name": "soulcare-landing-page",
+  "version": "0.1.0",
+  "private": true,
+  "license": "MIT",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "add": "^2.0.6",
+    "button": "^1.1.1",
+    "calendar": "^0.1.1",
+    "checkbox": "^0.0.1",
+    "class-variance-authority": "^0.7.0",
+    "clsx": "^2.0.0",
+    "framer-motion": "^10.6.8",
+    "input": "^1.0.1",
+    "label": "^0.2.2",
+    "lucide-react": "^0.294.0",
+    "next": "14.0.3",
+    "popover": "^2.4.1",
+    "react": "^18",
+    "react-countup": "^6.5.0",
+    "react-dom": "^18",
+    "react-intersection-observer": "^9.5.3",
+    "react-responsive": "^9.0.2",
+    "select": "^1.1.2",
+    "shadcn-ui": "^0.4.1",
+    "sheet": "^0.2.0",
+    "swiper": "^11.0.5",
+    "tailwind-merge": "^2.0.0",
+    "tailwindcss-animate": "^1.0.7"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.0.1",
+    "postcss": "^8",
+    "tailwindcss": "^3.3.0"
+  }
+}

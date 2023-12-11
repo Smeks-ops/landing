@@ -1,0 +1,31 @@
+.heroBackground {
+    background: linear-gradient(90deg, rgba(0, 0, 0, 0.30) 7.85%, rgba(0, 0, 0, 0.28) 14.76%, rgba(0, 0, 0, 0.24) 25.2%, rgba(0, 0, 0, 0.22) 31.77%, rgba(0, 0, 0, 0.20) 36.49%, rgba(0, 0, 0, 0.00) 98.17%), url('/hero_img.png'), lightgray 0px -400.831px / 100% 261.1% no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+.downloadButton {
+    display: flex;
+    height: 52px;
+    padding: 15px 64px;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    border-radius: 50px;
+    background: var(--primary-purple, #8D67F8);
+    color: white;
+    font-size: 16px;
+    font-weight: bold;
+}
+
+.heroText {
+    
+    width: 983px; /* Width of the text container */
+    height: 184px; /* Height of the text container */
+    color: #FFF; /* Text color */
+    font-family: 'Satoshi', sans-serif; /* Font family */
+    font-size: 82px; /* Font size */
+    font-style: normal; /* Font style */
+    font-weight: 500; /* Font weight */
+    line-height: 92px; /* Line height */
+  }
+
